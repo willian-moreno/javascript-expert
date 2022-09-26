@@ -6,7 +6,6 @@
 > Kent Beck declarou em 2003 que TDD encoraja designs de código simples e inspira confiança. Do ponto de vista de Robert C. Martin, escritor do livro ?Agile Software Development?, o objetivo de TDD é a especificação e não a validação, ou seja, é a maneira de pensar através das necessidades do projeto antes de escrever o código funcional.
 
 [Test Driven Development: TDD Simples e Prático](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)<br>
-
 [Desenvolvimento orientado por comportamento (BDD)](https://www.devmedia.com.br/desenvolvimento-orientado-por-comportamento-bdd/21127)
 
 ### Behavior Driven Development (BDD)
@@ -20,3 +19,8 @@
 > *Linguagem Ubíqua: é uma linguagem estruturada em torno do modelo de domínio e usada por todos os membros da equipe para conectar todas as suas atividades com o software. Numa equipe de desenvolvedores são: os jargões técnicas, terminologias das discussões do dia-a-dia ou uma linguagem incomum para pessoas de outros departamentos.*
 
 [Desenvolvimento orientado por comportamento (BDD)](https://www.devmedia.com.br/desenvolvimento-orientado-por-comportamento-bdd/21127)
+
+#### Referências do curso
+[Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)<br>
+[What?s the difference between Unit Testing, TDD and BDD?](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/#:~:text=When%20applied%20to%20automated%20testing,implementation%20detail%20in%20unit%20tests.&text=You%20should%20not%20test%20implementation%2C%20but%20instead%20behavior)<br>
+[BDD in JavaScript: Getting Started with Cucumber and Gherkin](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
