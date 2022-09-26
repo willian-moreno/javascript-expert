@@ -9,7 +9,7 @@
 [Desenvolvimento orientado por comportamento (BDD)](https://www.devmedia.com.br/desenvolvimento-orientado-por-comportamento-bdd/21127)
 
 ### Behavior Driven Development (BDD)
-1. O termo Behavior Driven Development diz respeito a um conjunto de práticas que devem ser utilizados com o TDD e testes unitários.
+1. O termo Behavior Driven Development diz respeito a um conjunto de pr?ticas que devem ser utilizados com o TDD e testes unitários.
 2. O BDD tem uma aproximação com a área de negócios e diz o que deve ser testado de uma forma mais detalhada, usando linguagem ubíqua (Ubiquitous Language), o vocabulário mais utilizado pelas pessoas afetadas pelo sistema.
 3. Os analistas escrevem as especificações das regras do ponto de vista do negócio/não técnico.
 
