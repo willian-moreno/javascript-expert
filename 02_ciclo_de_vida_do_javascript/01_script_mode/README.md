@@ -3,7 +3,7 @@
 2. O 'use strict' é utilizado por padrão em transpiladores como o TypeScript, Babel;
 3. Para utilizar essa diretiva, basta colocar no começo do arquivo JavaScript, ou da tag script, um 'use strict';
 
----
+___
 
 > *O strict mode do ECMAScript 5 é uma forma de optar por uma variante restrita do JavaScript. O strict mode não é apenas um subconjunto: ele intencionalmente tem semânticas diferentes do código normal. Navegadores que não suportam strict mode executarão código strict mode com um comportamento diferente dos navegadores que suportam, então não confie no strict mode sem testar o suporte a funcionalidades dos aspectos relevantes do strict mode. Código strict mode e código não-strict mode podem coexistir, então scripts podem optar pelo strict mode incrementalmente.*
 
@@ -13,17 +13,17 @@
 
 *Para invocar strict mode para um script inteiro, coloque exatamente a declaração "use strict"; (ou 'use strict';) antes de qualquer outra declaração.*
 
-``
+```
 // Sintaxe strict mode para todo o script
 "use strict";
 var v = "Oi! Eu sou um script strict mode!";
-``
+```
 
 ### Strict mode para funções
 
 *Da mesma forma, para invocar strict mode para uma função, coloque exatamente a declaração "use strict"; (ou 'use strict';) no corpo da função antes de qualquer outra declaração.*
 
-``
+```
 function strict(){
   // Sintaxe strict mode a nível de função
   'use strict';
@@ -31,11 +31,11 @@ function strict(){
   return "Oi! Eu sou uma função strict mode!  " + nested();
 }
 function notStrict() { return "Eu não sou strict."; }
-``
+```
 
 [Strict mode](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode)<br>
 
----
+___
 
 E alguns outros exemplos práticos do que acontece com strict:
 - Usar variáveis não declaradas gera um erro;
