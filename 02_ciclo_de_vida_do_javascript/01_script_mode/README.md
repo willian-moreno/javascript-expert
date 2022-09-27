@@ -13,7 +13,7 @@ ___
 
 *Para invocar strict mode para um script inteiro, coloque exatamente a declaração "use strict"; (ou 'use strict';) antes de qualquer outra declaração.*
 
-```
+```javascript
 // Sintaxe strict mode para todo o script
 "use strict";
 var v = "Oi! Eu sou um script strict mode!";
@@ -23,7 +23,7 @@ var v = "Oi! Eu sou um script strict mode!";
 
 *Da mesma forma, para invocar strict mode para uma função, coloque exatamente a declaração "use strict"; (ou 'use strict';) no corpo da função antes de qualquer outra declaração.*
 
-```
+```javascript
 function strict(){
   // Sintaxe strict mode a nível de função
   'use strict';
