@@ -1,0 +1,23 @@
+[
+	{
+		"id": "0bf01a5e-5689-4ec0-b37a-a8f44b5f0223",
+		"name": "Taurus",
+		"releaseYear": 2022,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "aa15ba47-dd3d-4a42-8541-0dbac0db8b26",
+		"name": "LeBaron",
+		"releaseYear": 2022,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "a95a7554-eec1-4ab4-b6b6-6cdf0ed1f217",
+		"name": "Wrangler",
+		"releaseYear": 2021,
+		"available": true,
+		"gasAvailable": true
+	}
+]
