@@ -29,14 +29,14 @@ const file = new File();
 // Alternativa para não atribuir ao 'this' a referência do watch.
 
 //1. Usando uma arrow function
-// watch(__filename, (event, filename) => file.watch(event, filename));
+watch(__filename, (event, filename) => file.watch(event, filename));
 
 //2. Usando o bind
 // O bind retorna uma função com o 'this' que se mantém de file, ignorando o watch.
-//watch(__filename, file.watch.bind(file));
+watch(__filename, file.watch.bind(file));
 
 //3. Usando o call
-// file.watch.call(file, null, __filename);
+file.watch.call(file, null, __filename);
 
 //4. Usando o apply
 file.watch.apply(file, [null, __filename]);
