@@ -9,7 +9,7 @@
 
 ## Referências
 [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)<br>
-[JavaScript type coercion explained](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839)
+[JavaScript type coercion explained](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839)<br>
 [WTFJS](https://wtfjs.com/)
 
 
