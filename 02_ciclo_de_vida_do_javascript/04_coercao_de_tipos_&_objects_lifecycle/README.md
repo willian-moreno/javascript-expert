@@ -7,7 +7,7 @@
 6. A coerção implícita é aquela geralmente utilizada com operadores (soma de string com number, if usando uma variável na condição que não é booleana, etc.).
 7. É importante utilizar o ``===`` ao invés do ``==`` em comparações, para evitar a coerção do dado, que pode gerar problemas.
 
-## Referências
+#### Referências
 [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)<br>
 [JavaScript type coercion explained](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839)<br>
 [WTFJS](https://wtfjs.com/)
