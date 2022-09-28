@@ -43,5 +43,6 @@ file.watch.apply(file, [null, __filename]);
 
 /**
  * Referências
- * [Creating an Application Performance Monitor Using Node 14 New and Experimental Features]{@link https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b}
+ * [Creating an Application Performance Monitor Using Node 14 New and Experimental Features]
+ * {@link https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b}
  */
