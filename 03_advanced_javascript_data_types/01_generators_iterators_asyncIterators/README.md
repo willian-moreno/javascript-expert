@@ -28,7 +28,7 @@ _Um objeto é um iterator (iterador) quando sabe como acessar itens numa coleç�
 
 #### Síntaxe esperada dos Iterators
 
-_Algumas declarações e expressões esperam por iteradores, por exemplo o `for-of` loops, `spread operator`, ``yield_``, e `destructuring assignment`.
+_Algumas declarações e expressões esperam por iteradores, por exemplo o `for-of` loops, `spread operator`, ``yield_``, e `destructuring assignment`._
 
 ```javascript
 for (let value of ['a', 'b', 'c']) {
@@ -53,9 +53,7 @@ a; // "a"
 
 _O Symbol.asyncIterator é um símbolo conhecido que especifica o padrão AsyncIterator para um objeto. Se essa propriedade é configurada em um objeto, é um iterável assíncrono e pode ser usado in um `for await...of` loop._
 
-#### Exemplos
-
-##### Iteráveis assíncronos definidos pelo usuário
+#### Exemplos - Iteráveis assíncronos definidos pelo usuário
 
 _Você consegue definir seu próprio iterável assíncrono configurando a propriedade \[Symbol.asyncIterator\] em um objeto._
 
